@@ -7,7 +7,7 @@ Simple python script to extract data from receipts and export to  csv
 
 **⚠️ Advice: Review the code before running it. This is for educational purposes only. ⚠️**
 
-1.	Download / Copy script in the folder of receipt PDFs  
+1.	Download / Copy script in the folder of receipt PDFs **main.py** 
 2.	install **PyPDF2**
 3.	change output name => **output.csv**
 4.	run script     ` python main.py`
