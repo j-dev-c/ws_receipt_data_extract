@@ -44,8 +44,7 @@ def extract_data(pdf_list):
                      "symbol":symbol ,"company":company,"account_number":account_num, 
                      "order_num":order_num,"gross":gross ,"commision":commision,"exchange":exchange,
                      "net_ammount":net_ammount,"posted":posted})
-        # print( reader ,"\n",company)
-        print(net_ammount)
+     
     except  Exception as e :
        print("error",e)
 
